@@ -1,0 +1,25 @@
+# This file contains additional pkgconfig build requirements that did
+# not get picked up automatically. One name per line, no whitespace.
+fftw3f
+gdk-pixbuf-2.0
+gl
+glib-2.0
+gstreamer-player-1.0
+gtk+-3.0
+gtk4
+gtk4-unix-print
+gtk4-x11
+gtkmm-4.0
+iso-codes
+json-glib-1.0
+libarchive
+libgcab-1.0
+librsvg-2.0
+libsoup-2.4
+lv2
+rubberband
+samplerate
+sndfile
+uuid
+x11
+x11-xcb
