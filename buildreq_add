@@ -8,11 +8,6 @@ alsa-tools
 alsa-tools-dev
 alsa-ucm-conf
 alsa-utils
-appstream-glib
-appstream-glib-dev
-atk
-atk-dev
-atkmm-dev
 autogen
 autogen-dev
 automake
@@ -169,6 +164,8 @@ libjpeg-turbo-staticdev
 liblo
 liblo-dev
 liblo-staticdev
+libmp3lame-dev
+libmp3lame-staticdev
 libogg-dev
 libogg-dev32
 libogg-staticdev
@@ -267,6 +264,9 @@ openssl-dev
 openssl-staticdev
 opus
 opus-dev
+opusfile
+opusfile-dev
+opusfile-staticdev
 opus-lib
 opus-staticdev
 pango-dev

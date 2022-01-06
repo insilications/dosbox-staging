@@ -1,4 +1,4 @@
--Dbuildtype=release
+--buildtype=release
 -Ddefault_library=static
 -Duse_alsa=true
 -Duse_fluidsynth=true
