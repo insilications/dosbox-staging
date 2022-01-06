@@ -1,5 +1,5 @@
 PKG_NAME := dosbox-staging
-URL = https://github.com/wwmm/easyeffects.git
+URL = https://github.com/dosbox-staging/dosbox-staging.git
 ARCHIVES = 
 ARCHIVES_GIT = 
 

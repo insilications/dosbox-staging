@@ -1,0 +1,7 @@
+0.5.4
+pypi(coverage)
+pypi(mypy)
+pypi(pycodestyle)
+pypi(pyenchant)
+pypi(pylint)
+pypi(yapf)

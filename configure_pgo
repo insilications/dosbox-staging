@@ -1,1 +1,8 @@
--Ddefault_library=both
+-Dbuildtype=release
+-Ddefault_library=static
+-Duse_alsa=true
+-Duse_fluidsynth=true
+-Duse_opengl=true
+-Duse_png=true
+-Dtry_static_libs=png,opusfile,png
+-Dfluidsynth:enable-floats=true
